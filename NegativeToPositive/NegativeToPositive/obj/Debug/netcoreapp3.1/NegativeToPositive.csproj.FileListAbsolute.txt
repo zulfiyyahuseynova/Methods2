@@ -1,0 +1,14 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\obj\Debug\netcoreapp3.1\NegativeToPositive.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\obj\Debug\netcoreapp3.1\NegativeToPositive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\obj\Debug\netcoreapp3.1\NegativeToPositive.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\obj\Debug\netcoreapp3.1\NegativeToPositive.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\obj\Debug\netcoreapp3.1\NegativeToPositive.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\bin\Debug\netcoreapp3.1\NegativeToPositive.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\bin\Debug\netcoreapp3.1\NegativeToPositive.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\bin\Debug\netcoreapp3.1\NegativeToPositive.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\bin\Debug\netcoreapp3.1\NegativeToPositive.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\bin\Debug\netcoreapp3.1\NegativeToPositive.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\bin\Debug\netcoreapp3.1\NegativeToPositive.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\obj\Debug\netcoreapp3.1\NegativeToPositive.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\obj\Debug\netcoreapp3.1\NegativeToPositive.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NegativeToPositive\NegativeToPositive\obj\Debug\netcoreapp3.1\NegativeToPositive.genruntimeconfig.cache

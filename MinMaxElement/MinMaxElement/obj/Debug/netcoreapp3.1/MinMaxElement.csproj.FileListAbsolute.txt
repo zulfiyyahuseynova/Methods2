@@ -1,0 +1,14 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\bin\Debug\netcoreapp3.1\MinMaxElement.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\bin\Debug\netcoreapp3.1\MinMaxElement.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\bin\Debug\netcoreapp3.1\MinMaxElement.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\bin\Debug\netcoreapp3.1\MinMaxElement.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\bin\Debug\netcoreapp3.1\MinMaxElement.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\bin\Debug\netcoreapp3.1\MinMaxElement.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\obj\Debug\netcoreapp3.1\MinMaxElement.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\obj\Debug\netcoreapp3.1\MinMaxElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\obj\Debug\netcoreapp3.1\MinMaxElement.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\obj\Debug\netcoreapp3.1\MinMaxElement.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\obj\Debug\netcoreapp3.1\MinMaxElement.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\obj\Debug\netcoreapp3.1\MinMaxElement.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\obj\Debug\netcoreapp3.1\MinMaxElement.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\MinMaxElement\MinMaxElement\obj\Debug\netcoreapp3.1\MinMaxElement.genruntimeconfig.cache
